@@ -13,5 +13,11 @@ namespace kaffe
             return 45;
         }
 
+        public int MlMælk()
+        {
+            return 160;
+        }
+
+
     }
 }
