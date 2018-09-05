@@ -18,6 +18,10 @@ namespace kaffe
             return 160;
         }
 
+        public string Styrke()
+        {
+            return "Mild";
+        }
 
     }
 }
