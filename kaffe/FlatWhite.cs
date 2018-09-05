@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace kaffe
 {
-    class FlatWhite
+    class FlatWhite : Kaffe , Imælk
     {
+        public override int Pris()
+        {
+            return 45;
+        }
+
     }
 }
