@@ -18,10 +18,9 @@ namespace kaffe
             return 160;
         }
 
-        public string Styrke()
+        public override string Styrke()
         {
-            return "Mild";
+            return "mild";
         }
-
     }
 }
